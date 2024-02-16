@@ -1,0 +1,13 @@
+C:\Users\Dave\documents\visual studio 2010\Projects\Activity3\Activity3\bin\Debug\Activity3.exe
+C:\Users\Dave\documents\visual studio 2010\Projects\Activity3\Activity3\bin\Debug\Activity3.pdb
+C:\Users\Dave\documents\visual studio 2010\Projects\Activity3\Activity3\bin\Debug\Activity3.xml
+C:\Users\Dave\documents\visual studio 2010\Projects\Activity3\Activity3\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Dave\documents\visual studio 2010\Projects\Activity3\Activity3\obj\x86\Debug\Activity3.vbproj.GenerateResource.Cache
+C:\Users\Dave\documents\visual studio 2010\Projects\Activity3\Activity3\obj\x86\Debug\Activity3.exe
+C:\Users\Dave\documents\visual studio 2010\Projects\Activity3\Activity3\obj\x86\Debug\Activity3.xml
+C:\Users\Dave\documents\visual studio 2010\Projects\Activity3\Activity3\obj\x86\Debug\Activity3.pdb
+C:\Users\Dave\documents\visual studio 2010\Projects\Activity3\Activity3\bin\Debug\Activity3.exe.manifest
+C:\Users\Dave\documents\visual studio 2010\Projects\Activity3\Activity3\bin\Debug\Activity3.application
+C:\Users\Dave\documents\visual studio 2010\Projects\Activity3\Activity3\obj\x86\Debug\WindowsApplication1.Calculator.resources
+C:\Users\Dave\documents\visual studio 2010\Projects\Activity3\Activity3\obj\x86\Debug\Activity3.exe.manifest
+C:\Users\Dave\documents\visual studio 2010\Projects\Activity3\Activity3\obj\x86\Debug\Activity3.application

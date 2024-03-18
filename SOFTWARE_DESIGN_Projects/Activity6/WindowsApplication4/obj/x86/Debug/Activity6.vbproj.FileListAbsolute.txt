@@ -1,0 +1,11 @@
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\Activity6.vbprojResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form1.resources
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\Activity6.vbproj.GenerateResource.Cache
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb

@@ -1,0 +1,4 @@
+C:\Users\Dave\BSCPE_Projects\SOFTWARE_DESIGN_Projects\Activity5\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Dave\BSCPE_Projects\SOFTWARE_DESIGN_Projects\Activity5\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Dave\BSCPE_Projects\SOFTWARE_DESIGN_Projects\Activity5\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Dave\BSCPE_Projects\SOFTWARE_DESIGN_Projects\Activity5\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
